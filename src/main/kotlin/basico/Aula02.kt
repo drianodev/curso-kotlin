@@ -1,3 +1,4 @@
+package basico
 /*
     VARIAVEIS E SEUS TIPOS
 */
